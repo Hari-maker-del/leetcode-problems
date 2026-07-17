@@ -7,8 +7,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0115-distinct-subsequences) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
