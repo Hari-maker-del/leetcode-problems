@@ -23,30 +23,47 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Array
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0299-bulls-and-cows) |
+| [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Hari-maker-del/leetcode-problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Math
 |  |
 | ------- |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Hari-maker-del/leetcode-problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
