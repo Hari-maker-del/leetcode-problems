@@ -19,16 +19,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Hari-maker-del/leetcode-problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Math
 |  |
