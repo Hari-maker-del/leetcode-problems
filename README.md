@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0704-binary-search) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Hari-maker-del/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Hari-maker-del/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
