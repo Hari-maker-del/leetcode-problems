@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
