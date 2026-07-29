@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0299-bulls-and-cows) |
 | [0383-ransom-note](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Hari-maker-del/leetcode-problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0115-distinct-subsequences) |
+| [0392-is-subsequence](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,4 +115,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
