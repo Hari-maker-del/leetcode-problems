@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0115-distinct-subsequences) |
+| [0198-house-robber](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
