@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0231-power-of-two) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Hari-maker-del/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
