@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
