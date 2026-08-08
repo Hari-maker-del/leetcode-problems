@@ -142,4 +142,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1323-maximum-69-number) |
+## Tree
+|  |
+| ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 <!---LeetCode Topics End-->
