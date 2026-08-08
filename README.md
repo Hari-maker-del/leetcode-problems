@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0575-distribute-candies](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0704-binary-search) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Hari-maker-del/leetcode-problems/tree/master/2574-left-and-right-sum-differences) |
 ## Two Pointers
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
