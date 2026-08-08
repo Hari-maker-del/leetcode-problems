@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0392-is-subsequence) |
+| [1137-n-th-tribonacci-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0231-power-of-two) |
+| [1137-n-th-tribonacci-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1323-maximum-69-number) |
 | [1512-number-of-good-pairs](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0303-range-sum-query-immutable) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
