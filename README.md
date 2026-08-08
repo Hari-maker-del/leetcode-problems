@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0231-power-of-two) |
+| [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1323-maximum-69-number) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1323-maximum-69-number) |
 ## Tree
 |  |
@@ -188,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0141-linked-list-cycle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
