@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0709-to-lower-case) |
+| [0806-number-of-lines-to-write-string](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/Hari-maker-del/leetcode-problems/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Dynamic Programming
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 | [0575-distribute-candies](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0704-binary-search) |
+| [0806-number-of-lines-to-write-string](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0905-sort-array-by-parity](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
