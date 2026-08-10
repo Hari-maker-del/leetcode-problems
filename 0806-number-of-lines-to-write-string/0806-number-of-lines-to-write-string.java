@@ -1,23 +1,19 @@
 class Solution {
     public int[] numberOfLines(int[] widths, String s) {
-        if(s.length()==0)
-        return new int[]{0,0};
-        int[] ans=new int[]{1,0};
-        int sum=0;
-        for(int i=0;i<s.length();i++)
-        {
-            int temp=widths[s.charAt(i)-'a'];
-            if(temp+sum<=100)
-            {
-                sum+=temp;
+        char c[]=s.toCharArray();
+        int sum=0,l=0,px=0;
+        int res[]=new int [2];
+        for(char k:c){
+            int r=k-'a';
+            if(sum+widths[r]>100){
+                sum=0;
+                l++;
             }
-            else 
-            {
-                ans[0]++;
-                sum=temp;
-            }
+            sum+=widths[r];
         }
-        ans[1]=sum;
-        return ans;
+        if(sum!=0) res[0]=l+1;
+        else res[0]=l;
+        res[1]=sum;
+        return res;
     }
 }
