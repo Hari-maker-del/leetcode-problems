@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0575-distribute-candies) |
+| [1122-relative-sort-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1512-number-of-good-pairs](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Hari-maker-del/leetcode-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1122-relative-sort-array) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0905-sort-array-by-parity](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1122-relative-sort-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1122-relative-sort-array) |
 ## Polygons
 |  |
 | ------- |
@@ -208,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0219-contains-duplicate-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
