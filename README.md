@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0704-binary-search) |
 | [0806-number-of-lines-to-write-string](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0812-largest-triangle-area) |
 | [0905-sort-array-by-parity](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1122-relative-sort-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0231-power-of-two) |
+| [0812-largest-triangle-area](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0976-largest-perimeter-triangle) |
 ## Sliding Window
 |  |
@@ -220,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Hari-maker-del/leetcode-problems/tree/master/1122-relative-sort-array) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Hari-maker-del/leetcode-problems/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
